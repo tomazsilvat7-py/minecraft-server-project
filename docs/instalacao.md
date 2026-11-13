@@ -8,7 +8,7 @@ em um ambiente computacional com Debian 13.
 ## 1. Pré-requisitos
 
 - Computador hospedeiro.
-- Rede:** Conexão via **cabo Ethernet** (evite Wi-Fi para evitar lag e perda de pacotes).
+- Rede:Conexão via **cabo Ethernet** (evite Wi-Fi para evitar lag e perda de pacotes).
 - Pendrive: Mínimo de 4 GB com a imagem `debian-13.x.x-amd64-netinst.iso` gravada.
 
 ## 2. Instalação do Debian 13
@@ -69,7 +69,7 @@ Quando o menu inicial do Debian aparecer, selecione **`Graphical install`** (Ins
 1. Caso o instalador pergunte se deseja instalar o carregador de inicialização **GRUB** no registro mestre, marque **`Sim`** e selecione o disco rígido principal (ex: `/dev/sda` ou `/dev/nvme0n1` — **nunca** selecione o pendrive).
 2. Ao ver a mensagem **"Instalação completada"**, remova o pendrive da porta USB e clique em **`Continuar`** para reiniciar a máquina.
 
-## 4. Instalação das ferramentas
+## 3. Instalação das ferramentas
 
 Descreva a instalação e verificação
 do ambiente Java.
