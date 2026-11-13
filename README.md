@@ -79,5 +79,6 @@ Concluído com sucesso.
 ## 👨‍💻 Autor
 
 - Tomaz
+
 Desenvolvido como projeto educacional de estudo
 sobre servidores e infraestrutura de redes.
